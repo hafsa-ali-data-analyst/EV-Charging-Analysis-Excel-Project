@@ -41,6 +41,12 @@ The objective is to identify usage patterns, compare performance across differen
   <li>Customer ratings indicate scope for improvement in user satisfaction</li>
 </ul>
 
+<h2>📊 Dashboard Preview</h2>
+<p>
+This dashboard provides insights into sales trends and performance.
+</p>
+<img src="Screenshot 2026-04-02 115920.png" width="700">
+
 <h2>📁 Project File</h2>
 <p>
 EV_Charging_Analysis_Dashboard.xlsx
