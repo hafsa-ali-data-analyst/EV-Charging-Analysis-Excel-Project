@@ -45,7 +45,7 @@ The objective is to identify usage patterns, compare performance across differen
 <p>
 This dashboard provides insights into sales trends and performance.
 </p>
-<img src="Dashboard_Excel_Project" width="700">
+<img src="Screenshot 2026-04-03 170910" width="700">
 
 <h2>📁 Project File</h2>
 <p>
