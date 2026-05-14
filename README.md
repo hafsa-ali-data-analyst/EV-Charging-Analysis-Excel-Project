@@ -108,7 +108,7 @@ The dashboard below provides interactive insights into EV charging trends, reven
 ---
 
 ## 📁 Project File
-[Download Excel Dashboard](EV_Charging_Analysis_Dashboard.xlsx)
+[Download the Excel Project File](EV_Charging_Analysis_Dashboard.xlsx)
 
 ---
 
