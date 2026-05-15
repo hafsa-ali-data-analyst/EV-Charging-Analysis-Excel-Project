@@ -1,4 +1,4 @@
-# EV Charging & Revenue Analysis Dashboard (Excel Project)
+# EV Charging & Revenue Analysis Dashboard 
 
 ## 📊 Project Overview
 This project analyzes EV charging behavior, revenue generation, station usage, and energy consumption using Microsoft Excel. The goal was to uncover charging trends, identify high-performing cities and vehicle categories, and generate actionable business recommendations through an interactive dashboard.
